@@ -1,4 +1,4 @@
-# Python  
+# Python - Exercises  
 ## ECS780P - Computer Programming  
 ### W1    
 #### Introduction to the Python Programming  
